@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there👋..., I'm Ram
 
-<!--
-**Ramk900/Ramk900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer in the making** | Passionate about AI, Data Science & Machine Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Languages:** Python, Java, C++
+-
+---
+
+## 📌 Projects
+
+---
+
+## 📫 Connect with me
+- 📧 Email: sramkrishna309@gmail.com
+
+⭐ _"Code is like humor. When you have to explain it, it’s bad."_  
+
