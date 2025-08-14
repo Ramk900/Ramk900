@@ -6,15 +6,12 @@
 
 ## 🚀 Skills
 - **Languages:** Python, Java, C++
--
----
 
 ## 📌 Projects
 
----
 
 ## 📫 Connect with me
 - 📧 Email: sramkrishna309@gmail.com
 
-⭐ _"Code is like humor. When you have to explain it, it’s bad."_  
+Turning coffee into code, one commit at a time.” ☕💻
 
